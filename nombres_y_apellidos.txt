@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombres: Leandro
+Apellidos: Olarte
+---------------
+Nombres: Matias
+Apellidos: Varas
+---------------
+Nombres: Valeria
+Apellidos: Salinas
+---------------
+Nombres: Nicol
+Apellidos: Ovalles
+---------------
+Nombres: Raul
+Apellidos: Tarado
+---------------
